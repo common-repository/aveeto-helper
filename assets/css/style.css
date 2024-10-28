@@ -1,0 +1,16 @@
+.aveeto_shipping {
+  margin: 10px 0; }
+  .aveeto_shipping label {
+    font-weight: 600; }
+
+.aveeto_shipping_dropdown {
+  margin-top: 5px; }
+  .aveeto_shipping_dropdown .aveeto_shipping_id {
+    max-width: 300px; }
+    .product .aveeto_shipping_dropdown .aveeto_shipping_id {
+      max-width: 100%; }
+
+.aveeto_shipping_order_display {
+  color: green;
+  font-size: 13px;
+  opacity: 0.7; }
